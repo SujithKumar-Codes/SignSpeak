@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤟 SignSpeak
+# SignSpeak
 ### Smart Gloves for Real-Time Indian Sign Language (ISL) to Speech Translation
 
 *A wearable AI-powered communication system for bridging the communication gap between deaf & mute individuals and the hearing community.*
