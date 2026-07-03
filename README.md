@@ -398,7 +398,7 @@ This architecture minimizes communication delay while maintaining synchronized g
 ## Real-Time Testing
 
 <p align="center">
-<img src="images/prototype-testing.png" width="80%">
+<img src="images/prototype-testing.jpg" width="80%">
 </p>
 
 The prototype was tested in real-time by performing Indian Sign Language gestures while continuously monitoring live sensor readings and gesture predictions.
@@ -410,7 +410,7 @@ The embedded GRU model performs inference directly on the ESP32-S3 before trigge
 ## Final Smart Glove Prototype
 
 <p align="center">
-<img src="images/prototype-gloves.png" width="90%">
+<img src="images/prototype-gloves.jpg" width="90%">
 </p>
 
 The completed prototype consists of:
